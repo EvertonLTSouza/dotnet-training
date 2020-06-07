@@ -1,0 +1,11 @@
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\bin\Debug\netstandard2.0\Project.Business.deps.json
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\bin\Debug\netstandard2.0\Project.Business.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\bin\Debug\netstandard2.0\Project.Business.pdb
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\bin\Debug\netstandard2.0\Project.Core.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\bin\Debug\netstandard2.0\Project.Core.pdb
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\obj\Debug\netstandard2.0\Project.Business.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\obj\Debug\netstandard2.0\Project.Business.AssemblyInfoInputs.cache
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\obj\Debug\netstandard2.0\Project.Business.AssemblyInfo.cs
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\obj\Debug\netstandard2.0\Project.Business.csproj.CopyComplete
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\obj\Debug\netstandard2.0\Project.Business.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\Project.Business\obj\Debug\netstandard2.0\Project.Business.pdb

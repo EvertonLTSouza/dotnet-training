@@ -1,0 +1,11 @@
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\bin\Debug\netstandard2.0\Project.Repository.deps.json
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\bin\Debug\netstandard2.0\Project.Repository.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\obj\Debug\netstandard2.0\Project.Repository.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\obj\Debug\netstandard2.0\Project.Repository.AssemblyInfoInputs.cache
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\obj\Debug\netstandard2.0\Project.Repository.AssemblyInfo.cs
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\bin\Debug\netstandard2.0\Project.Repository.pdb
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\bin\Debug\netstandard2.0\Project.Core.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\bin\Debug\netstandard2.0\Project.Core.pdb
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\obj\Debug\netstandard2.0\Project.Repository.csproj.CopyComplete
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\obj\Debug\netstandard2.0\Project.Repository.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Repository\obj\Debug\netstandard2.0\Project.Repository.pdb

@@ -1,0 +1,8 @@
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\bin\Debug\netstandard2.0\Project.Core.deps.json
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\bin\Debug\netstandard2.0\Project.Core.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\bin\Debug\netstandard2.0\Project.Core.pdb
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\obj\Debug\netstandard2.0\Project.Core.csprojAssemblyReference.cache
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\obj\Debug\netstandard2.0\Project.Core.AssemblyInfoInputs.cache
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\obj\Debug\netstandard2.0\Project.Core.AssemblyInfo.cs
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\obj\Debug\netstandard2.0\Project.Core.dll
+C:\Users\Everton Souza\Documents\dotnet-training\practical-challenge\backend\Project\src\Project.Core\obj\Debug\netstandard2.0\Project.Core.pdb
